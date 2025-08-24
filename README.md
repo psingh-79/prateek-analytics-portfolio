@@ -1,4 +1,4 @@
-# 💼 Prateek Singh  
+# Prateek Singh  
 **Senior Associate Analyst (Decision Science)**  
 
 📍 Pune, India  
