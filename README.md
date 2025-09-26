@@ -21,13 +21,13 @@ Skilled in **Python, SQL, Tableau, Power BI, Alteryx, and Knime**, with expertis
 
 ## Core Skills  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)  
-![Alteryx](https://img.shields.io/badge/-Alteryx-1F70C1?style=flat-square)  
-![Knime](https://img.shields.io/badge/-KNIME-FFD500?style=flat-square)  
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat-square)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square) 
+![Alteryx](https://img.shields.io/badge/-Alteryx-1F70C1?style=flat-square) 
+![Knime](https://img.shields.io/badge/-KNIME-FFD500?style=flat-square) 
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat-square) 
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)  
 
 **Specialties:**  
