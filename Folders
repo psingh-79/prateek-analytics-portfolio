@@ -1,3 +1,23 @@
 data/.gitkeep
 images/.gitkeep
 src/.gitkeep
+
+accident_dashboard/
+├── src/
+│   ├── etl.py
+│   ├── forecasting.py
+│   ├── clustering.py
+│   └── utils.py
+├── dashboard/
+│   └── streamlit_app.py
+├── data/
+│   └── clean_sample.csv
+├── images/
+│   ├── daily_ts_forecast.png
+│   ├── hotspots_centroids.png
+│   └── severity_distribution.png
+├── docs/
+│   ├── architecture.md
+│   └── model_justification.md
+├── requirements.txt
+└── README.md
