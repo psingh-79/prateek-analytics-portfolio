@@ -1,0 +1,23 @@
+{
+  "rows": 238421,
+  "cols": 19,
+  "duplicates": 0,
+  "top_missing_columns": {
+    "Cross Street": 0.5332164532486652,
+    "Latitude": 0.09362849748973455,
+    "Longitude": 0.09362849748973455,
+    "Borough": 0.030186099378829885,
+    "Contributing Factor": 0.005398014436647778,
+    "Street Name": 0.0015225168923878349,
+    "Persons Injured": 4.194261411536736e-06,
+    "Collision ID": 0.0,
+    "Pedestrians Killed": 0.0,
+    "Motorists Killed": 0.0
+  },
+  "lat_col": "Latitude",
+  "lon_col": "Longitude",
+  "cause_col": "Contributing Factor",
+  "injury_col": "Persons Injured",
+  "death_col": "Persons Killed",
+  "region_col": "Borough"
+}
